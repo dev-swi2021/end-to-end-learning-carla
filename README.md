@@ -25,4 +25,5 @@ Reinforcement Learning 알고리즘은 DDPG
 
 # STEP 4 : Imitation Learning + Reinforcement Learning + Depth Camera
 STEP 3 과정에서 발전한 STEP  
-STEP 3의 학습 방식과 동일한데 입력 종류에 Depth Camera 정보를 추가
+STEP 3의 학습 방식과 동일한데 입력 종류에 Depth Camera 정보를 추가  
+정확한 성능 비교를 위해 -> (1단계) Depth Camera + Imitation Learning -> (2단계) Depth Camera + Imitation Learning + Reinforcement Learning
